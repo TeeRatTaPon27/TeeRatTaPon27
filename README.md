@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Teerattapon Ngampongpan</h1>
 <h3 align="center">A Computer Engineering Student from Thailand</h3>
 
