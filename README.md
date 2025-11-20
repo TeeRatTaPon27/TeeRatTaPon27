@@ -12,37 +12,37 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/c" width="40" height="40" alt="C"/>
+  <img src="https://cdn.simpleicons.org/cplusplus" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.simpleicons.org/java" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3" width="40" height="40" alt="CSS3"/>
 </p>
 
 <h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/express" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/jest" alt="Jest" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/cypress" alt="Cypress" width="40" height="40"/>
 </p>
 
 <h3 align="left">Tools & Platforms:</h3>
 <p align="left">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
 </p>
 
 
