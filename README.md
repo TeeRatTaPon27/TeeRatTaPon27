@@ -7,10 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/teerattapon(tee) ngampongpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teerattapon(tee) ngampongpan" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/teerattapon(tee) ngampongpan](https://www.linkedin.com/in/teerattapon-tee-ngampongpan-373280298/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teerattapon(tee) ngampongpan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -21,6 +22,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 <h3 align="left">Frameworks & Libraries:</h3>
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4BAF50?logo=express&logoColor=white)
@@ -30,6 +32,7 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 
 <h3 align="left">Tools & Platforms:</h3>
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
