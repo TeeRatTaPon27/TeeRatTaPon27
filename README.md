@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/teerattapon(tee) ngampongpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teerattapon(tee) ngampongpan" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages:</h3>
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -20,26 +21,23 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 <h3 align="left">Frameworks & Libraries:</h3>
-<p align="left">
-  <img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/express" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/jest" alt="Jest" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/cypress" alt="Cypress" width="40" height="40"/>
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4BAF50?logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 
 <h3 align="left">Tools & Platforms:</h3>
-<p align="left">
-  <img src="https://cdn.simpleicons.org/git" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 
 
