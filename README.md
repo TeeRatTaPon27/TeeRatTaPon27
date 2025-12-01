@@ -42,5 +42,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+![Visitor Count](https://profile-counter.glitch.me/TeeRatTaPon27/count.svg)
+
 
 
